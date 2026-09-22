@@ -13,6 +13,6 @@ build_search_index = false
 
 [extra]
 tagline = "Handcrafted waffles, made with love."
-order_form_url = "#"
+order_form_url = "https://tally.so/r/81OoXx"
 instagram_url = "https://instagram.com/coming_soon"
 contact_email = "coming_soon@waffleplug.com"
