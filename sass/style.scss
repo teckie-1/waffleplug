@@ -154,10 +154,15 @@ section {
     }
   }
 
-.about p {
-  max-width: 600px;
-  margin: 0 auto;
-  color: $text-muted;
+.about {
+  border-top: 1px solid rgba($caramel, 0.25);
+  border-bottom: 1px solid rgba($caramel, 0.25);
+
+  p {
+    max-width: 600px;
+    margin: 0 auto;
+    color: $text-muted;
+  }
 }
 
 .order {
